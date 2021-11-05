@@ -1,7 +1,12 @@
+Hi, myself Syed Abdul Baseer pirsuing my final year project. For being tenacious towards my final year project. I started working out to know the tools, by a few basic programs which are below following.
 
 this is about intro to vs code
 
 for using vs code
+
+1.MUX
+
+Steps:
 
 ![image](https://user-images.githubusercontent.com/93662214/140520203-e13677a6-6c17-4f26-98bb-19f06223e630.png)
 
