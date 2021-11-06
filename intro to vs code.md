@@ -4,7 +4,7 @@ this is about intro to vs code
 
 for using vs code
 
-1.MUX(Module 1)
+1.MUX(Combinational Circuit)
 
 Steps:
 
@@ -88,7 +88,7 @@ Go to view from the following list in view select(command palette) or PRESS ctrl
 
 Finally, Successful generation of output or preview to the slide
 
-Up down counter(Module 2)
+Up down counter(Sequential Circuit)
 
 In this synthesis process we are using SKY 130 library file. ll the required files will be provided above. After downloading all the required files you will see the folder like this
 
