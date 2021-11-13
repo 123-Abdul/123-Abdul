@@ -1,8 +1,4 @@
-Hi, myself Syed Abdul Baseer pirsuing my final year project. For being tenacious towards my final year project. I started working out to know the tools, by a few basic programs which are below following.
-
-this is about intro to vs code
-
-for using vs code
+Hello everyone, I am Abdul Baseer studying in final year. I have created the following repository for different combinational and sequential circuits. This is about introduction to vs code
 
 1.MUX(Combinational Circuit)
 
