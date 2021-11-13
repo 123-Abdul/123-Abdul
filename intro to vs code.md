@@ -143,11 +143,13 @@ Step 9:- We are done with the synthesis now we need to download or write the syn
 Step 10:- Now we can exit for yosys tool for that simply type "exit" and hit enter
 
 ![image](https://user-images.githubusercontent.com/93662214/140539837-da309e53-16ff-4197-9169-1ab115c2380e.png)
+
 at the end you will report.txt file and netlist.v
 
 in which report.txt file shows the statisitical data of design made
 
 ![image](https://user-images.githubusercontent.com/93662214/140540077-e32b6554-c2fe-4cae-b6b9-2ac1f0df5281.png)
+
 and netlist.v file shows all the detailed information which is required to make an integrated circuit. Ths is the file we gave to foundry for making a physical copy.
 
 ![image](https://user-images.githubusercontent.com/93662214/140540385-73b5cd28-e9ff-46b2-9731-1ab7a1f72278.png)
