@@ -1,4 +1,14 @@
-Hello everyone, I am Syed Abdul Baseer studying in final year. I have created the following repository for different combinational and sequential circuits. This is about introduction to vs code
+Hello everyone, I am Syed Abdul Baseer studying in final year. I have created the following repository for different combinational and sequential circuits. This is about introduction to vs code. Before we proceed to install:
+
+1. icarus verilog(for windows download link: https://bleyer.org/icarus).
+
+Icarus Verilog is a free compiler implementation for the IEE-1364 Verilog hardware description language. Icarus is maintained by Stephen Williams and it is released under the GNU GPL License.
+
+In this page you will find easy to install Icarus Verilog packages compiled with the MinGW toolchain for the Windows environment. GTKWave for Win32 is also included in the latest releases. The installers have been created with Jordon Rusell's Inno Setup free installer utility.
+
+2.vscode download link- https://code.visualstudio.com/download (also extensions i.Verilog-HDL/Syste,Verilog/Bluespec SytemVerilog and ii. Graphviz Preview).
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, Typescript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP,Go) and runtimes (such as .Net and Unity).
 
 1.MUX(Combinational Circuit)
 
