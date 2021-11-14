@@ -1,4 +1,4 @@
-Hello everyone, I am Abdul Baseer studying in final year. I have created the following repository for different combinational and sequential circuits. This is about introduction to vs code
+Hello everyone, I am Syed Abdul Baseer studying in final year. I have created the following repository for different combinational and sequential circuits. This is about introduction to vs code
 
 1.MUX(Combinational Circuit)
 
